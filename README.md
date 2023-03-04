@@ -99,6 +99,6 @@ This command will create a Docker image called "nike-app" based on the instructi
 docker run -p 8000:8000 nike-app
 
 ```
-This command will start a container using the "nike-app" image and map port 8000 in the container to port 8000 on the host machine..
+This command will start a container using the "nike-app" image and map port 8000 in the container to port 8000 on the host machine...
 
 
